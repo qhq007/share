@@ -1,0 +1,28 @@
+.update-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    width: 17.325rem;
+}
+
+.inner .update input{
+    display: block;
+    width: 100%;
+    padding: 0.35rem 0.1rem;
+    margin: 0.25rem 0 0.25rem 0;
+    height: 1rem;
+    border: 1px solid rgb(64, 147, 214);
+    outline:none;
+    box-shadow: 0 0 0.25rem rgba(0,0,0,0.2);
+}
+.update-wrapper .box{
+    background-color: skyblue;
+    padding: 0.35rem 7.45rem;
+    margin-bottom: 1rem;
+}
+.update-wrapper .box span{
+    color:#fff;
+}

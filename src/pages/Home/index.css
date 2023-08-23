@@ -1,0 +1,13 @@
+  main{
+    height: 90vh;
+    overflow: auto;
+  }
+  main .wrapper .search input {
+    display: block;
+    width: 17.325rem;
+    height: 1.25rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(64, 147, 214);
+    outline: none;
+    margin: 0.3rem auto;
+  }

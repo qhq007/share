@@ -1,0 +1,32 @@
+.mine-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.userInfo,.service{
+    width: 17.325rem;
+    border: 1px solid grey;
+    margin-top: 1rem;
+    box-shadow: 0 0 0.25rem rgba(0,0,0,0.5);
+}
+.userInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mine-wrapper .userInfo .head-img{
+    margin: 0.5rem 1rem 0.5rem -6rem;
+}
+.mine-wrapper .userInfo i{
+    font-size: 4rem;
+}
+.mine-wrapper .service div{
+    height: 3rem;
+    line-height: 3rem;
+    padding-left: 1rem;
+    border-bottom: 1px solid grey;
+} 
+.mine-wrapper .service a{
+    display: block;
+}

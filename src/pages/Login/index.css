@@ -1,0 +1,27 @@
+.login-register-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    width: 17.325rem;
+}
+
+.inner input{
+    display: block;
+    width: 100%;
+    padding: 0.35rem 0.1rem;
+    margin: 0.25rem 0;
+    height: 1rem;
+    border: 1px solid #000;
+    box-shadow: 0 0 0.25rem rgba(0,0,0,0.2);
+    outline: none;
+}
+.login-register-wrapper .box{
+    background-color: skyblue;
+    padding: 0.35rem 7.45rem;
+    margin-bottom: 1rem;
+}
+.login-register-wrapper .box span{
+    color: #fff;
+}

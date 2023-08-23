@@ -1,0 +1,26 @@
+.story-share{
+    width: 17.325rem;
+    margin: 0.5rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.story-share input{
+    width: 80%;
+    margin-bottom: 0.5rem;
+    border: 1px solid skyblue;
+    outline: none;
+}
+.story-share textarea{
+    width: 80%;
+    height: 6rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid skyblue;
+}
+.story-share div{
+    width: 20%;
+    padding-left: 1.5rem;
+    background-color: skyblue;
+    color:#fff;
+}

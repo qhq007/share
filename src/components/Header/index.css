@@ -1,0 +1,14 @@
+header {
+    height: 2.5rem;
+    background-color: skyblue;
+    line-height: 2.5rem;
+}
+header span{
+    color: #fff;
+    font-size: 1.4rem;
+}
+header svg{
+    font-size: 1.8rem;
+    color: #fff;
+    margin: 0.4rem 5.3rem 0 1rem;
+}
